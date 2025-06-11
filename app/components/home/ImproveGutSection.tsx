@@ -28,7 +28,7 @@ export default function ImproveGutSection() {
               veterinarians, we have created a breakthrough formula exclusively
               tailored to combat the health challenges prevalent in dogs. A
               staggering 91% of our customers have reported significant
-              improvements in their dogs' health after incorporating our product
+              improvements in their dog`&apos;`s health after incorporating our product
               into their diet.
             </p>
           </div>
